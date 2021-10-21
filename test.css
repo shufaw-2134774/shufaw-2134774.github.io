@@ -1,0 +1,86 @@
+body{
+    background-image: url('dark_wook.png');
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    background-color: cornsilk;
+}
+
+h3{
+    color: cadetblue;
+    font-size: 40px;
+    font-family: Passion One;
+    margin-bottom: 0px;
+}
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: Passion one;
+    color: burlywood;
+    font-weight: bold;
+}
+
+#LeftNav {
+    width: 400px;
+    float: left;
+    border: solid 8px black;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: cornsilk;
+}
+
+#LeftNav ul{
+    color: white;
+   
+}
+
+a{
+    color:white;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Content{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: cornsilk;
+}
+
+#Footer{
+    text-align: center;
+    border: solid 8px black;
+    background-color: cornsilk;
+}
+
+.titles{
+
+}
+
+#bow{
+    color: thistle;
+    font-weight: bold;
+    font-size: 20px;
+}
